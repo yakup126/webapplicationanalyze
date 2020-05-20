@@ -29,12 +29,12 @@ __        __   _       _                _ _           _   _
                                                               
 Scan Started...
 ---------------Subdomain Scaning Started-----------------</br>
-[*]Tried:http://i.instagram.com</br>
-[+]Found: http://i.instagram.com                                                       
+[*]Tried: 2386\31218  :http://besmd.instagram.com</br>
+[+]Found: 2387\31218  :http://i.instagram.com                                                       
 ----------------Hidden Url Scaning Started-----------------
-[*]Tried : http://instagram.com/homes
-[+]Found : http://instagram.com/accounts/login/
-[*]Tried : http://instagram.com/Kayit.php
+[*]Tried : 6521\59345 :http://instagram.com/homes
+[+]Found : 6522\59345 :http://instagram.com/accounts/login/
+[*]Tried : 6533\59345 :http://instagram.com/Kayit.php
 ----------------Port Scaning Started-----------------
 [*]Scanning Port:80
 [+]Port 80: OPEN
@@ -52,5 +52,5 @@ RESULTS:
 +--------------------------------------+--------------+---------+
 </pre>
 </p>
-<b1>Warning : Sometimes it doesn't work, try again</b1>
+<b1>Warning : Sometimes it doesn't work, try again</b1></br>
 My English is not very good so i might have made mistake
