@@ -52,5 +52,6 @@ RESULTS:
 +--------------------------------------+--------------+---------+
 </pre>
 </p>
+It may not work if your wordlist is too big</br>
 <b1>Warning : Sometimes it doesn't work, try again</b1></br>
 My English is not very good so i might have made mistake
