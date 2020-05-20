@@ -28,8 +28,8 @@ __        __   _       _                _ _           _   _
 
                                                               
 Scan Started...
----------------Subdomain Scaning Started-----------------</br>
-[*]Tried: 2386\31218  :http://besmd.instagram.com</br>
+---------------Subdomain Scaning Started-----------------
+[*]Tried: 2386\31218  :http://besmd.instagram.com
 [+]Found: 2387\31218  :http://i.instagram.com                                                       
 ----------------Hidden Url Scaning Started-----------------
 [*]Tried : 6521\59345 :http://instagram.com/homes
